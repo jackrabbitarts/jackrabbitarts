@@ -1,0 +1,28 @@
+figcaption{
+    /* font-family: 'Kanit', sans-serif; */
+    font-family: 'Quicksand', sans-serif;
+    /* font-family: 'Roboto Slab', serif; */
+    color: #d3ceba;
+}
+a {
+    text-decoration: none;
+}
+
+
+img {
+    height: 300px; /* Set the desired height */
+    width: auto;   /* Maintain aspect ratio */
+    }
+
+.painting-container {
+    display: flex;
+    justify-content: space-around; /* Centers and distributes space */
+    flex-wrap: wrap; /* Wrap images to new line when container width is narrow */
+    }
+    
+.painting {
+    margin: 10px; /* Add spacing between images */
+}
+      
+
+      

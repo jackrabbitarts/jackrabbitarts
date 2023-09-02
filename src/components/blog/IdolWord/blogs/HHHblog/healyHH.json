@@ -1,0 +1,278 @@
+{
+  "Indo-European": [
+    {
+      "Anatolian": [
+       {
+        "Hittite": {
+          "health": "haddulatar",
+          "whole": "panku",
+          "holy": "",
+          "sole": "as",
+          "solid": "",
+          "soul": "istanza",
+          "self": "-",
+          "sane": "-",
+          "same": "sani-",
+          "sound": "-",
+          "salvation": "assul",
+          "together": ""
+        }
+       } 
+      ]
+    },
+    {
+      "Indo-Iranian": [
+        {
+          "Sanskrit": {
+            "health": "स्वास्थ्य (svāsthya)",
+            "whole": "सर्व (sarva)",
+            "holy": "शिव (śiva)",
+            "sole": "एक (eka)",
+            "solid": "",
+            "soul": "आत्मन् (ātman)",
+            "self": "स्वयम् (svayam)",
+            "sane": "प्रसन्न (prasanna)",
+            "same": "",
+            "sound": "ध्वनि (dhvani)",
+            "salvation": "मोक्ष (mokṣa)",
+            "together": ""
+          }
+        },
+        {
+          "Avestan": {
+            "health": "𐬯𐬞𐬀𐬞𐬭𐬀𐬌𐬱𐬌 (hūspāθya)",
+            "whole": "𐬯𐬀𐬭𐬀𐬌 (hū)",
+            "holy": "𐬞𐬀𐬘𐬭𐬀 (aša)",
+            "sole": "𐬀𐬀𐬮𐬀𐬌 (aēva)",
+            "solid": "",
+            "soul": "𐬀𐬊𐬬𐬊𐬰 (uši)",
+            "self": "𐬯𐬞𐬀𐬌𐬙𐬀 (hūuō)",
+            "sane": "𐬮𐬀𐬯𐬀𐬭𐬀𐬚𐬀 (airiš)",
+            "same": "",
+            "sound": "𐬙𐬀𐬭𐬀𐬙𐬀 (van)",
+            "salvation": "-",
+            "together": ""
+          }
+        },
+        {
+          "Persian": {
+            "health": "سلامتی (salamat)",
+            "whole": "تمام (tamam)",
+            "holy": "مقدس (maqdes)",
+            "sole": "تنها (tanha)",
+            "solid": "",
+            "soul": "جان (jan)",
+            "self": "خود (khod)",
+            "sane": "سالم (salam)",
+            "same": "",
+            "sound": "صدا (seda)",
+            "salvation": "نجات (nejat)",
+            "together": ""
+          }
+        },
+        {
+          "Proto-Indo-Iranian": {
+            "health": "*hailithya",
+            "whole": "*támás",
+            "holy": "*háǵʰios",
+            "sole": "*tánhas",
+            "solid": "",
+            "soul": "*ǵʰn̥h₁és",
+            "self": "*swēsh₁",
+            "sane": "*sánus",
+            "same": "",
+            "sound": "*ḱl̥h₂n̥tós",
+            "salvation": "*frahišta-",
+            "together": ""
+          }
+        }
+      ]
+    },
+    {
+      "Hellenic": [
+        {
+          "Greek": {
+            "health": ["hygieia", "huliea"],
+            "whole": "holos",
+            "holy": "hagios",
+            "sole": "monos",
+            "solid": "",
+            "soul": "psyche",
+            "self": "autos",
+            "sane": "nous",
+            "same": "",
+            "sound": "hygiēs",
+            "salvation": "soteria",
+            "together": ""
+          }
+        },
+        {
+          "Proto-Hellenic": {
+            "health": "*hugieh₂",
+            "whole": "*hólos",
+            "holy": "*hagíos",
+            "sole": "*mónos",
+            "solid": "",
+            "soul": "*psū́khē",
+            "self": "*héwos",
+            "sane": "*nóus",
+            "same": "",
+            "sound": "*hḗkhōs",
+            "salvation": "-",
+            "together": ""
+          }
+        }
+      ]
+    }, 
+    {
+      "Italic": [
+        {
+          "French": {
+            "health": "santé",
+            "whole": "entier",
+            "holy": "saint",
+            "sole": "seul",
+            "solid": "",
+            "soul": "âme",
+            "self": "soi",
+            "sane": "sain",
+            "same": "",
+            "sound": "solide",
+            "salvation": "salut",
+            "together": ""
+          }
+        },
+        {
+          "Latin": {
+            "health": "salus",
+            "whole": "totus",
+            "holy": "sanctus",
+            "sole": "solus",
+            "soul": "anima",
+            "self": "ipse",
+            "sane": "sanus",
+            "same": "idem",
+            "sound": "sonus",
+            "salvation": "salus",
+            "together": "simul, cum"
+          }
+        },
+        {
+          "Proto-Italic": {
+            "health": "*salus",
+            "whole": "*tutos",
+            "holy": "*sanktos",
+            "sole": "*solos",
+            "soul": "*anemos",
+            "self": "*ipse",
+            "sane": "*sanos",
+            "same": "",
+            "sound": "*swondos",
+            "salvation": "-",
+            "together": ""
+          }
+        }
+      ]
+    },
+    {
+      "Celtic": [
+
+      ]
+    },
+    {
+      "Germanic": [
+        {
+          "English": {
+            "health": "health",
+            "whole": "whole",
+            "holy": "holy",
+            "sole": "sole",
+            "soul": "soul",
+            "self": "self",
+            "sane": "sane",
+            "same": "same",
+            "sound": "sound",
+            "salvation": "salvation",
+            "together": ""
+          }
+        },
+        {
+          "German": {
+            "health": "Gesundheit",
+            "whole": "ganz",
+            "holy": "heilig",
+            "sole": "allein",
+            "soul": "Seele",
+            "self": "selbst",
+            "sane": "gesund",
+            "same": "",
+            "sound": "Klang",
+            "salvation": "Erlösung",
+            "together": ""
+          }
+        },
+        {
+          "Old English": {
+            "health": "hǣlþ",
+            "whole": "hāl",
+            "holy": "hālig",
+            "sole": "sān",
+            "soul": "sāwol",
+            "self": "sylf",
+            "sane": "gesund",
+            "same": "",
+            "sound": "gesund",
+            "salvation": "hǣlu",
+            "together": ""
+          }
+        },
+        {
+          "Old Norse": {
+            "health": "heilsa",
+            "whole": "heill",
+            "holy": "helgur",
+            "sole": "einn",
+            "soul": "sála",
+            "self": "sjálfr",
+            "sane": "sanur",
+            "same": "",
+            "sound": "hljóð",
+            "salvation": "frelsi",
+            "together": ""
+          }
+        },
+        {
+          "Proto-Germanic": {
+            "health": "*hailithō",
+            "whole": "*hailaz",
+            "holy": "*hailagaz",
+            "sole": "*ainaz",
+            "soul": "*saiwaz",
+            "self": "*selbaz",
+            "sane": "*sanaz",
+            "same": "",
+            "sound": "*sundaz",
+            "salvation": "-",
+            "together": ""
+          }
+        }
+      ]
+    },
+    {
+      "Armenian": [
+
+        ]
+    },
+    {
+      "Balto-Slavic": [
+
+      ]
+    },
+    {
+      "Albanian": [
+
+      ]
+    }
+    
+  ]
+}
