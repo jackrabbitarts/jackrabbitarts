@@ -1,49 +1,68 @@
 {
-    "name": "Indo-European",
+    "family": "Indo-European",
+    "language": "Proto-Indo-European",
+    "age": 0,
     "children": [
         {
-            "name": "Anatolian",
+            "family": "Anatolian",
+            "language": "Proto-Anatolian",
+            "age": 1,
             "children": [
-                { "name": "Hittite" },
-                { "name": "Luwian" }
+                { "language": "Hittite",
+                  "age": 1.5 },
+                { "language": "Luwian",
+                  "age": 1.5 }
             ]
         },
         {
-            "name": "Indo-Iranian",
+            "family": "Indo-Iranian",
+            "language": "Proto-Indo-Iranian",
+            "age": 1,
             "children": [
                 {
-                    "name": "Indo-Aryan",
+                    "family": "Indo-Aryan",
+                    "language": "Proto-Indo-Aryan",
+                    "age": 1.5,
                     "children": [
-                        { "name": "Sanskrit" },
-                        { "name": "Hindi" }
+                        { "language": "Sanskrit",
+                          "age": 1.7 },
+                        { "language": "Hindi",
+                          "age": 1.8 }
                     ]
                 },
                 {
-                    "name": "Iranian",
+                    "family": "Iranian",
                     "children": [
-                        { "name": "Avestan" },
-                        { "name": "Persian" }
+                        { "language": "Avestan" },
+                        { "language": "Persian" }
                     ]
                 }
             ]
         },
         {
-            "name": "Hellenic",
+            "family": "Hellenic",
+            "language": "Proto-Hellenic",
+            "age": 1.8,
             "children": [
-                { "name": "Greek" }
+                { "language": "Greek" }
             ]
         },
         {
-            "name": "Italic",
+            "family": "Italic",
+            "language": "Proto-Italic",
+            "age": 2,
             "children": [
                 {
-                    "name": "Latin",
+                    "family": "Romance",
+                    "language": "Latin",
+                    "age": 3,
                     "children": [
-                        { "name": "French" },
-                        { "name": "Italian" },
-                        { "name": "Spanish" },
-                        { "name": "Portuguese" },
-                        { "name": "Romanian" }
+                        { "language": "French",
+                          "age": 2 },
+                        { "language": "Italian" },
+                        { "language": "Spanish" },
+                        { "language": "Portuguese" },
+                        { "language": "Romanian" }
                     ]
                 }
             ]

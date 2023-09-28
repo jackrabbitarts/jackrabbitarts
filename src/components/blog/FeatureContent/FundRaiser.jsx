@@ -5,8 +5,7 @@ const FundRaiser = () => {
     <>
     <div id="pre-empt"><h2>I ASK FOR YOUR SUPPORT</h2></div>
     <div id="feature-content-content">
-    <p>I currently feel I am in a liminal space.  An old life is behind me. A 
-      a new life is in front of me.
+    <p>I feel I am in a liminal space.  An old life is behind me, a new life in front.
     </p>
     <p>The threshold I encounter is two-fold:</p>
     <ul>
