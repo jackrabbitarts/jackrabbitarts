@@ -17,10 +17,10 @@ function App() {
   return (
     <>
        {/* <div id="navbar"><img src="src/assets/JRweb.png" ></img><h1>&#123; &nbsp; jack rabbit arts &nbsp;  &#125;</h1></div> */}
-       <Link to="/"><div id="navbar"><img src="src/assets/JRweb.png" ></img><h1>&#123; &nbsp; jack rabbit arts &nbsp;  &#125;</h1></div></Link>
+       <Link to="/jackrabbitarts"><div id="navbar"><img src="/JRweb.png" ></img><h1>&#123; &nbsp; jack rabbit arts &nbsp;  &#125;</h1></div></Link>
   
   <Routes>
-  <Route path="/" element={<Home />} />
+  <Route path="/jackrabbitarts" element={<Home />} />
     <Route path="/DigitalPainting" element={<DigitalPainting />} />
     <Route path="/Design" element={<Design />} />
     <Route path="/IdolWord" element={<IdolWord />} />
