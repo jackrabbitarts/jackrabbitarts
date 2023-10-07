@@ -3,9 +3,13 @@ import React from 'react'
 const FundRaiser = () => {
   return (
     <>
-    <div id="pre-empt"><h2>I ASK FOR YOUR SUPPORT</h2></div>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+   <h1>I feel I am in a liminal space.</h1>
     <div id="feature-content-content">
-    <p>I feel I am in a liminal space.  An old life is behind me, a new life in front.
+    <p>  An old life is behind me, a new life in front.
     </p>
     <p>The threshold I encounter is two-fold:</p>
     <ul>
