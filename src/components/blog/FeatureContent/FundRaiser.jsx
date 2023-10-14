@@ -7,23 +7,16 @@ const FundRaiser = () => {
     <br/>
     <br/>
     <br/>
-   <h1>I feel I am in a liminal space.</h1>
+   <h1>I feel I am in a <span className="font40">liminal</span> space.</h1>
     <div id="feature-content-content">
-    <p>  An old life is behind me, a new life in front.
-    </p>
-    <p>The threshold I encounter is two-fold:</p>
-    <ul>
-      <li>A new way of making a living</li>
-      <li>A new way of living</li>
-
-    </ul>
-    <p>I am posting this here because this website is not only one of 
-      the avenues by which I hope to accrue income, but my creative offspring, 
-      something I want to tend and see grow.
-    </p>
-    <p>Most of the menu options on left currently link to empty pages, but I have included 
-      a sample of my work in the 'Digital Painting'
-    </p>
+  <p> &nbsp; &nbsp;
+    A <span className="font30">new</span> way
+  </p>
+  <p> &nbsp; &nbsp; &nbsp;
+     <span className="font30">opens</span> before me
+  </p>
+  <br/>
+  <p> &nbsp; &nbsp; &nbsp; &nbsp;   If I have the courage to <span className="font30">change.</span></p>
     </div>
 
     

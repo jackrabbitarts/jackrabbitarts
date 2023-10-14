@@ -17,7 +17,7 @@ function App() {
   return (
     <>
        {/* <div id="navbar"><img src="src/assets/JRweb.png" ></img><h1>&#123; &nbsp; jack rabbit arts &nbsp;  &#125;</h1></div> */}
-       <Link to="/jackrabbitarts"><div id="navbar"><img src="/JRweb.png" ></img><h1>&#123; &nbsp; jack rabbit arts &nbsp;  &#125;</h1></div></Link>
+       <Link to="/jackrabbitarts"><div id="navbar"><img src="/jackrabbitarts/JRweb.png" ></img><h1>&#123; &nbsp; jack rabbit arts &nbsp;  &#125;</h1></div></Link>
   
   <Routes>
   <Route path="/jackrabbitarts" element={<Home />} />
