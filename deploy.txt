@@ -1,5 +1,7 @@
 To manually deploy to github:
 
+--delete dist folder if old
+--ensure dist not included in gitignore
 --in a terminal run:
 
 npm run build
