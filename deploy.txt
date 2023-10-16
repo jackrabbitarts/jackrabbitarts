@@ -1,1 +1,34 @@
-npm run deploy
+To manually deploy to github:
+
+--in a terminal run:
+
+npm run build
+
+--in a git terminal
+--to access gh-pages run:
+
+git checkout gh-pages
+
+
+--to get rid of existing files run:
+
+rm -rf *
+
+
+--to copy the contents of the dist folder run:
+
+cp -r dist/* .
+
+
+--to add and commit the changees run:
+
+git add .
+git commit -m "Deploy to gh-pages"
+
+
+--finally push the changes run:
+
+git push origin gh-pages
+
+
+
