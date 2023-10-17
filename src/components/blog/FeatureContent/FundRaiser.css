@@ -1,0 +1,20 @@
+#fundraiser-bg{
+    width: 800px;
+    height: 500px;
+    background-image: url('../../../assets/way_drawing.png');
+    background-size: cover;
+    
+    margin: auto;
+  }
+  #fundraiser-content{
+    width: 260px;
+    color: #dcd9c4;
+    margin: auto;
+  
+  }
+  .font20{
+    font-size: 20px;
+  }
+  .font30{
+    font-size: 26px;
+  }
